@@ -1,6 +1,6 @@
 # Javascript 30
 
-This is a repo with my personal solutions for Wes Bos's Vanilla JS course [JavaScript30](https://javascript30.com/)
+This is a repo with my personal solutions to Wes Bos's Vanilla JS course [JavaScript30](https://javascript30.com/)
 
 ## Checklist
 
@@ -8,7 +8,7 @@ This is a repo with my personal solutions for Wes Bos's Vanilla JS course [JavaS
 - [x] Day 1 - [Javascript Drum](https://dev-freak.github.io/js-30/Day%201/)
 - [x] Day 2 - [CSS + JS Clock](https://dev-freak.github.io/js-30/Day%202/)
 - [x] Day 3 - [Playing With CSS Variables and JS](https://dev-freak.github.io/js-30/Day%203/)
-- [ ] Day 4 - [Array Cardio Day 1]
+- [x] Day 4 - [Array Cardio Day 1](https://dev-freak.github.io/js-30/Day%204/)
 - [ ] Day 5 - [Flex Panels Image Gallery]
 - [ ] Day 6 - [AJAX Type Ahead]
 - [ ] Day 7 - [Array Cardio 2]

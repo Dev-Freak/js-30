@@ -22,3 +22,17 @@ An enumeration and brief description of the key concepts I encountered whilst re
 - `document.documentElement` to get the root element
 - DOM event `input` triggers on every single change as opposed to the DOM event `change` that only triggers on `mouseup` or `mouseleave`
 - `element.target.dataset` is an object that stores all the `data-attributes` that where defined for a given HTML element
+
+## Day 4 - Array Cardio Day 1
+
+- `console.table` to show a list of results more clearly
+- `Array.prototype.sort (a, b)` a takes precedence y return > 0. b takes precedence if return < 0. Otherwise there is no change.
+- `Array.prototype.reduce` can take an empty object as `initialValue` and return the updated object every iteration
+- `Array.prototype` methods can be chained together to achieve complex logics:
+
+```
+  links
+  .map((link) => link.innerHTML)
+  .filter((link) => link.includes("de"));
+
+```
