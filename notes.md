@@ -36,3 +36,8 @@ An enumeration and brief description of the key concepts I encountered whilst re
   .filter((link) => link.includes("de"));
 
 ```
+
+## Day 5 - Flex Panels Image Gallery
+
+- `flex-grow` to make Flex children take different amounts of available space
+-
