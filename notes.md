@@ -39,5 +39,5 @@ An enumeration and brief description of the key concepts I encountered whilst re
 
 ## Day 5 - Flex Panels Image Gallery
 
-- `flex-grow` to make Flex children take different amounts of available space
--
+- `flex-grow:` to make Flex children take different amounts of available space
+- `transform: translate()` to move elements across the layout
