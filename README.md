@@ -10,7 +10,7 @@ This is a repo with my personal solutions to Wes Bos's Vanilla JS course [JavaSc
 - [x] Day 3 - [Playing With CSS Variables and JS](https://dev-freak.github.io/js-30/03/)
 - [x] Day 4 - [Array Cardio Day 1](https://dev-freak.github.io/js-30/04/index.html)
 - [x] Day 5 - [Flex Panels Image Gallery](https://dev-freak.github.io/js-30/05/)
-- [ ] Day 6 - [AJAX Type Ahead]
+- [x] Day 6 - [AJAX Type Ahead](https://dev-freak.github.io/js-30/06/)
 - [ ] Day 7 - [Array Cardio 2]
 - [ ] Day 8 - [Fun With HTML5 Canvas]
 - [ ] Day 9 - [14 Must-Know Dev Tools Tricks]

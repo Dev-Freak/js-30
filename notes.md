@@ -41,3 +41,11 @@ An enumeration and brief description of the key concepts I encountered whilst re
 
 - `flex-grow:` to make Flex children take different amounts of available space
 - `transform: translate()` to move elements across the layout
+
+## Day 6 - Ajax Type Ahead
+
+- `fetch` built-in DOM API replaces the legacy XMLHTTPRequest
+- `\``` use template literals to create html
+- `RegExp` greatly reduces the complexity of finding substrings
+- `string.join()` normally concatenates strings with a comma (,) unless you pass an argument to the function `string.join('')`
+- While playing with a different implementation, I learnt that `document.createElement()` can create any type of HTML element and that `document.createTextNode` is necessary to append text on any "text element" (Ej: h1, p)
